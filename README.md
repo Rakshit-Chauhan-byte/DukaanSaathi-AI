@@ -6,6 +6,8 @@ Generate WhatsApp promotions, product listings, and customer replies — in Engl
 
 > Built as a Hacktoberfest side project. Open-source, no authentication, no database.
 
+Deployed link : https://dukaansaathi-ai-gamma.vercel.app/
+
 ---
 
 ## ✨ Features
